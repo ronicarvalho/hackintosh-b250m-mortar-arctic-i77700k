@@ -12,6 +12,6 @@ And the best ever, <a href="https://dortania.github.io/OpenCore-Install-Guide/" 
 
 ## First than all, read the install guide
 
-I read this guide for 3 days to really understand how all this things works together, so when I got the hands-on, I did not problems to generate the EFI and make the boot disk.
+I read this guide for 3 days to really understand how all this things works together, so when I got the hands-on, I didn´t problems to generate the EFI and make the boot disk.
 
 Is crucial that you read the install guide, over and over to understand what you are doing. About the results, my PC never was so faster.
