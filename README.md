@@ -2,7 +2,7 @@
 
 Hackintosh using OpenCore + Catalina, then upgraded after install to Big Sur
 
-The specification of my motherboard and chipset <a href="https://www.msi.com/Motherboard/b250m-mortar-arctic.html" target="_blank" rel="noopener" alt="">MSI B250M Mortar Arctic</a>
+The specification of my motherboard and chipset [go](https://www.msi.com/Motherboard/b250m-mortar-arctic.html){:target="_blank" rel="noopener"} MSI B250M Mortar Arctic
 
 The specification of my processor <a href="https://ark.intel.com/content/www/us/en/ark/products/97129/intel-core-i7-7700k-processor-8m-cache-up-to-4-50-ghz.html"  target="_blank" rel="noopener" alt="">Intel Core i7-7700K</a>
 
