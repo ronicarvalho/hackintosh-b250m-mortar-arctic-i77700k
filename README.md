@@ -15,3 +15,7 @@ And the best ever, <a href="https://dortania.github.io/OpenCore-Install-Guide/" 
 I read this guide for 3 days to really understand how all this things works together, so when I got the hands-on, I didn´t problems to generate the EFI and make the boot disk.
 
 Is crucial that you read the install guide, over and over to understand what you are doing. About the results, my PC never was so faster.
+
+## My context when starting
+
+When I decide to install macOS on my PC, almost all documentation was talking about mac, you will create the disk boot, you will run the software xpto, but everything in macOS, but I don´t have a macOS running to generate all this things, so I tryed install macOS in the VM, starting with VirtualBox, disaster! Next step, VMWare, I followed this guide and everything was good, but after install, when I installed the VMWare tools, the system stay very slow.
