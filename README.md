@@ -1,4 +1,4 @@
-# Hackintosh
+# Hackintosh (Desktop)
 
 Hackintosh using OpenCore + Catalina, then upgraded after install to Big Sur
 
